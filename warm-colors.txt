@@ -2,3 +2,4 @@ red
 oragne
 yellow
 maroon
+red-orange
